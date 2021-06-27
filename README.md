@@ -17,6 +17,7 @@
 <p align="center"><strong>Name</strong><strong>:</strong> Md. Amdadul Haque</p>
 <p align="center"><strong>ID</strong><strong>:&nbsp; </strong>1722077</p>
 <p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:amdadul.haque17@northsouth.edu">amdadul.haque17@northsouth.edu</a></p>
+<p align="center"><strong><u>Member 2</u></strong><strong><u>:</u></strong></p>
 <p align="center"><strong>Name</strong><strong>:</strong> Fairuz Nawar</p>
 <p align="center"><strong>ID</strong><strong>:&nbsp; </strong>1831244</p>
 <p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:fairuz.nawar01@northsouth.edu">fairuz.nawar01@northsouth.edu</a></p>
