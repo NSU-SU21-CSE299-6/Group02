@@ -21,5 +21,5 @@
 <p align="center"><strong>Name</strong><strong>:</strong> Fairuz Nawar</p>
 <p align="center"><strong>ID</strong><strong>:&nbsp; </strong>1831244</p>
 <p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:fairuz.nawar01@northsouth.edu">fairuz.nawar01@northsouth.edu</a></p>
-<p align="center"><strong>Git Repository</strong><strong>: </strong><a href="https://github.com/NSU-SU21-CSE299-6/">https://github.com/NSU-SU21-CSE299-6/</a></p>
+<p align="center"><strong>Git Repository</strong><strong>: </strong><a href="https://github.com/NSU-SU21-CSE299-6/Group02">https://github.com/NSU-SU21-CSE299-6/Group02</a></p>
 <p align="center"><strong>Date Prepared</strong><strong>: </strong>27/06/2021</p>
