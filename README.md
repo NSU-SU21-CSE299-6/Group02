@@ -43,20 +43,25 @@ Let’s talk about the features below.
 <li>Flat information – By entering flat ID, user/Admin can find the flat information (Such as Rent, SqureFeet, Advance Payment, and Availability.  </li>
 <li>Loan installment – Only admin can access to this feature and have the payment status and due amount. </li>
 </ul>
+<p>&nbsp;</p>
 <p> <strong>Important note:</strong> It will be similar as a portal for worldwide users. Anyone can create an account under one whole building or any individual flats. Everyone will have an individual user profile. </p>
+<p>&nbsp;</p>
 <p><strong>TECHNOLOGY</strong></p>
 <p>We decided to go with latest technologies for developing this application in order to give users a better experience.</p>
 <p>&nbsp;</p>
 <p><em>Frontend</em></p>
 <p>For the front end we will be using HTML, CSS. </p>
+<p>&nbsp;</p>
 <p><em>Backend</em></p>
-<p>We will be using PHIP Programming language to build this application. PHP is an acronym for "PHP: Hypertext Preprocessor". PHP is a widely-used, open source scripting language. PHP scripts are executed on the server. <br>
+<p>We will be using PHP Programming language to build this application. PHP is an acronym for "PHP: Hypertext Preprocessor". PHP is a widely-used, open source scripting language. PHP scripts are executed on the server. <br>
 For the framework we will be using Laravel. Laravel is a server-side PHP framework; with it you can build full-stack apps, meaning apps with features typically requiring a backend, such as user accounts, exports, order management, etc.
 </p>
+<p>&nbsp;</p>
 <p><em>Database</em></p>
 <p>We will be using MySQL Database tool.  MySQL is the most popular Open Source Relational SQL Database Management System. MySQL is one of the best RDBMS being used for developing various web-based software applications. <br>
 As free server we will use XAMPP. XAMPP is a free and open-source cross-platform web server solution stack package developed by Apache Friends, consisting mainly of the Apache HTTP Server, MariaDB database, and interpreters for scripts written in the PHP programming languages.
 </p>
+<p>&nbsp;</p>
 <p><strong>Monetization</strong></p>
 <p>The tenants can pay their house rent through their Bkash Account or Bank as well. Also if any user wants to pay their utility bill online, also they can use bank account or Bkash account.   </p>
 <p>&nbsp;</p>
