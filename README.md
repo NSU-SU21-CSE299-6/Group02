@@ -73,3 +73,8 @@ As free server we will use XAMPP. XAMPP is a free and open-source cross-platform
 <p>This web application aims to track perfect record of for and house owner and house management system. There will be no conflict between house owner and the tenants every record will be valid and accurate more than a ledger book. On this rental cases there are more incidents like clashes between house owners and tenants but this applications aims to reduce all the hassles. Also to maintain an individual house this application will be mark able.  </p>
 <p>&nbsp;</p>
 
+<p><strong>Social Impacts:</strong></p>
+<p>This web application aims to track perfect record of for and house owner and house management system. There will be no conflict between house owner and the tenants every record will be valid and accurate more than a ledger book. On this rental cases there are more incidents like clashes between house owners and tenants but this applications aims to reduce all the hassles. Also to maintain an individual house this application will be mark able.  </p>
+<p>&nbsp;</p>
+
+
