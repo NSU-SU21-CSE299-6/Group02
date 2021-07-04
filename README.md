@@ -62,10 +62,10 @@ For the framework we will be using Laravel. Laravel is a server-side PHP framewo
 As free server we will use XAMPP. XAMPP is a free and open-source cross-platform web server solution stack package developed by Apache Friends, consisting mainly of the Apache HTTP Server, MariaDB database, and interpreters for scripts written in the PHP programming languages.
 </p>
 <p>&nbsp;</p>
-<p><strong>Monetization</strong></p>
+<p>Monetization:</p>
 <p>The tenants can pay their house rent through their Bkash Account or Bank as well. Also if any user wants to pay their utility bill online, also they can use bank account or Bkash account.   </p>
 <p>&nbsp;</p>
-<p><strong>Social Impacts:</strong></p>
+<p>Social Impacts:</p>
 <p>This web application aims to track perfect record of for and house owner and house management system. There will be no conflict between house owner and the tenants every record will be valid and accurate more than a ledger book. On this rental cases there are more incidents like clashes between house owners and tenants but this applications aims to reduce all the hassles. Also to maintain an individual house this application will be mark able.  </p>
 <p>&nbsp;</p>
 
