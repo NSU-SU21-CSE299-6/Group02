@@ -69,8 +69,7 @@ CREATE TABLE `tenantinformation` (
 INSERT INTO `tenantinformation` (`usersId`, `tenantId`, `usersName`, `flatNo`, `mobile`, `usersEmail`, `usersUid`,`usersPwd`, `rent`, `nid`) VALUES
 (5, 1002, 'Abul', '1', '01759364574', 'abul@gmail.com', 'abul12', 'abul12', '10000', '5789638'),
 (7, 1003, 'Kabul', '2', '0171968574', 'kabul@gmail.com', 'kabul12', 'kabul12', '10500', '5789639'),
-(9, 1004, 'Sokhina', '3', '01958102030', 'sokhina@gmail.com', 'sokhina12', 'sokhina12', '11000', '5789640'),
-(11, 1005, 'Jorina', '4', '01819564528', 'jorina@gmail.com', 'jorina12', 'jorina12', '10200', '5789641'),
+
 
 -- --------------------------------------------------------
 
