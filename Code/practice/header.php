@@ -1,6 +1,4 @@
-<?php
-  session_start();
-?>
+
 
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
@@ -18,7 +16,8 @@
         <a href="index.php"><img src="img/logo.png" alt="Page logo"></a>
         <ul>
           <li><a href="index.php">Home</a></li>
-          <li><a href="about.php">Features</a></li>
+          <li><a href="about.php">about</a></li>
+          <li><a href="features.php">Features</a></li>
           <?php
             if (isset($_SESSION["useruid"])) {
               echo "<li><a href='dashboard.php'>Dashboard</a></li>";
@@ -33,4 +32,5 @@
       </div>
     </nav>
 
+<!--A quick wrapper to align the content (ends in footer.php)-->
 <div class="wrapper">
