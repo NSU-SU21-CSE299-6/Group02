@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -13,6 +14,20 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+/*Route::get('/', 'App\Http\Controllers\PagesController@index');
+Route::get('/about', 'App\Http\Controllers\PagesController@about');
+Route::get('/services', 'App\Http\Controllers\PagesController@services');
+Route::get('/features', 'App\Http\Controllers\PagesController@features');*/
+
+Route::get('/', [PagesController::class, 'index']);
+
+
+/*
 Route::get('/', function () {
     return view('welcome');
-});
+});*/
+
+/*Route::get('/', function () {
+    return view('home');
+});*/
+
