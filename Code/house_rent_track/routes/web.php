@@ -20,7 +20,7 @@ Route::get('/services', 'App\Http\Controllers\PagesController@services');
 Route::get('/features', 'App\Http\Controllers\PagesController@features');*/
 
 Route::get('/', [PagesController::class, 'index']);
-
+Route::get('/about', [PagesController::class, 'about']);
 
 /*
 Route::get('/', function () {
