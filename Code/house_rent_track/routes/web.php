@@ -21,6 +21,8 @@ Route::get('/features', 'App\Http\Controllers\PagesController@features');*/
 
 Route::get('/', [PagesController::class, 'index']);
 Route::get('/about', [PagesController::class, 'about']);
+Route::get('/feature', [PagesController::class, 'feature']);
+Route::get('/contact', [PagesController::class, 'contact']);
 
 /*
 Route::get('/', function () {
