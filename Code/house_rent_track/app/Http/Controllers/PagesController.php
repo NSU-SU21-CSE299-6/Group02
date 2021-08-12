@@ -13,4 +13,14 @@ class PagesController extends Controller
     public function about(){
         return view('about');
     }
+
+    public function feature(){
+        return view('feature');
+    }
+
+    public function contact(){
+        return view('contact');
+    }
+
+    
 }
