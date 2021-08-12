@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
-        Personal Website - Code With Dary
+        House Rental Management System
     </title>
     <link 
         rel="stylesheet" 
@@ -17,6 +17,8 @@
         rel="stylesheet" 
         href="//use.fontawesome.com/releases/v5.0.7/css/all.css"
     />
+    <link rel="stylesheet" href="{{ asset ('css/app.css') }}">
+
 </head>
 
     <body>
