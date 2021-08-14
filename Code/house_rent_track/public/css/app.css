@@ -209,8 +209,8 @@ hr {
     transition: 0.25s ease-in-out;
 }
 
-/* WHY US */
-.section-why-us {
+/* features */
+.section-features {
     display: grid;
     padding: 0px 0px 100px 0px;
     grid-template-columns: 1fr 1fr 1fr;
@@ -226,7 +226,7 @@ hr {
     margin: auto;
 }
 
-.section-why-us .icon-why-us {
+.section-features .icon-features {
     padding: 30px;
     font-size: 30px;
     border-radius: 5px 20px 5px;
@@ -234,9 +234,10 @@ hr {
     box-shadow: 0px 5px 10px #ff6500;
 }
 
-.section-why-us p {
+.section-features p {
     font-size: 14px;
 }
+
 
 /* Styling footer */
 footer {
