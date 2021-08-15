@@ -22,5 +22,9 @@ class PagesController extends Controller
         return view('contact');
     }
 
+    public function admindash(){
+        return view('admindash');
+    }
+
     
 }
