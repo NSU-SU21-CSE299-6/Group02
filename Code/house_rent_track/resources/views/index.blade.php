@@ -9,8 +9,8 @@
             <h1> <span class="orange-txt">Welcome to House Rental Management System</span></h1>
             <h1> "A Conveninent Way To Track Your Rent" </h1>
             <div class="btn-wrapper">
-                <a href="dashboard">Sign In </a>
-                <a href="">Sign Up</a>
+                <a href="login">Sign In </a>
+                <a href="register">Sign Up</a>
             </div>
         </div>
     </div>

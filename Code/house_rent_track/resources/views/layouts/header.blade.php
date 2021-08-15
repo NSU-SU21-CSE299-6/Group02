@@ -1,7 +1,7 @@
 <!-- Navigation -->
 <nav class="top-menu-container">
             <div class="logo-header">
-                <a href="">
+                <a href="/">
                     <img 
                     src="https://media.istockphoto.com/photos/real-estate-houses-isometric-logo-design-blue-color-3d-rendering-picture-id1175964613" 
                     alt="Logo"
