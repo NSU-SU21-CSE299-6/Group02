@@ -26,5 +26,9 @@ class PagesController extends Controller
         return view('admindash');
     }
 
+    public function rent(){
+        return view('rent');
+    }
+
     
 }
