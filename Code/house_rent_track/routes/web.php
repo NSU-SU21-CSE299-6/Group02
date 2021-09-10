@@ -36,6 +36,10 @@ Route::get('/feature', [PagesController::class, 'feature']);
 Route::get('/contact', [PagesController::class, 'contact']);
 Route::get('/admindash', [PagesController::class, 'admindash']);
 Route::get('/rent', [PagesController::class, 'rent']);
+Route::get('/tenant', [PagesController::class, 'tenant']);
+Route::get('/flat', [PagesController::class, 'flat']);
+
+Route::get('/profile', [PagesController::class, 'profile']);
 
 /*
 Route::get('/', function () {

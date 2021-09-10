@@ -30,5 +30,16 @@ class PagesController extends Controller
         return view('rent');
     }
 
+    public function tenant(){
+        return view('tenant');
+    }
+
+    public function flat(){
+        return view('flat');
+    }
+
+    public function profile(){
+        return view('profile');
+    }
     
 }
