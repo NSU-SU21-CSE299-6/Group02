@@ -42,4 +42,7 @@ class PagesController extends Controller
         return view('profile');
     }
     
+    public function vacancy(){
+        return view('vacancy');
+    }
 }
